@@ -1,8 +1,13 @@
 .square {
-    width: 49px;
-    height: 49px;
-    background-color: lightblue;
-    border: 1px solid black;
+    /* width: 59px;
+    height: 59px; */
+    background-color: lavender;
+    /* border: 1px solid black; */
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
 }
 
 #container {
@@ -10,6 +15,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    width: 820px;
+    width: 500px;
     margin: 0 auto;
 }

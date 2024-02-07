@@ -1,0 +1,15 @@
+.square {
+    width: 49px;
+    height: 49px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 820px;
+    margin: 0 auto;
+}
